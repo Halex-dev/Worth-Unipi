@@ -1,0 +1,22 @@
+{
+  "dario" : {
+    "psw" : "b4b6f4f33b4a889af08937e9e280b8e367ec4640",
+    "Datelogin" : "26/01/2021",
+    "Dateregister" : "30/12/2020 15:41:16"
+  },
+  "alessio" : {
+    "psw" : "376ec521fd903ed6a97a88545eb54436108cbae2",
+    "Datelogin" : "15/01/2021",
+    "Dateregister" : "30/12/2020 15:41:32"
+  },
+  "valeria" : {
+    "psw" : "dca3c169ada6de4f647fa14074b83211b98cb516",
+    "Datelogin" : "25/01/2021",
+    "Dateregister" : "30/12/2020 15:51:34"
+  },
+  "davide" : {
+    "psw" : "1cd424918902c1dbc16c61ea09f30b31f6c2f0e9",
+    "Datelogin" : "02/01/2021 16:32:40",
+    "Dateregister" : "02/01/2021 16:32:40"
+  }
+}
